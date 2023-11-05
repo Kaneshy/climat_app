@@ -1,0 +1,30 @@
+.navbar1 {
+    background-color: rgb(17, 17, 17);
+    color: white;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+    color: purple;
+}
+
+.navbar-nav {
+    gap: 20px;
+}
+
+.nav-link {
+    border-radius: 15px;
+    color: rgb(204, 204, 204);
+    padding: 5px;
+}
+.nav-link:hover {
+    background-color: rgb(68, 68, 68);
+    color: rgb(255, 255, 255);
+}
+
+.navbar-collapse{
+    display: flex;
+    justify-content: end;
+    user-select: none;
+    margin-right: 20px;
+}
